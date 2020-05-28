@@ -1,0 +1,4 @@
+ZUL RESOLUSI
+- I want to create a new content
+- I want to delete a my content
+- I want to gift my content
